@@ -7,7 +7,7 @@ Hi, I'm Anel Fakic – a Junior Web Developer with a passion for crafting dynami
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=AnelFakic&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnelFakic&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=AnelFakic&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) &nbsp; &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnelFakic&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnelFakic&icon=0&color=11)](https://visitcount.itsvg.in)

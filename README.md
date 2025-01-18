@@ -1,8 +1,5 @@
 # About Me:
 Hi, I'm Anel Fakic – a Junior Web Developer with a passion for crafting dynamic and responsive web applications. Proficient in C# .NET and JavaScript, I enjoy solving problems and building seamless user experiences.<br><br>I'm constantly exploring new technologies and striving to enhance my skills to deliver high-quality, scalable, and efficient solutions. Let's build something amazing together! <br><br>Feel free to connect with me or check out my projects to see what I’ve been working on!
-
-
-## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anel-fakic/) 
 
 # 💻 Tech Stack:
@@ -11,8 +8,8 @@ Hi, I'm Anel Fakic – a Junior Web Developer with a passion for crafting dynami
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnelFakic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnelFakic&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnelFakic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnelFakic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnelFakic&theme=dark&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnelFakic&icon=0&color=11)](https://visitcount.itsvg.in)

@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Anel Fakic – a Junior Web Developer with a passion for crafting dynamic and responsive web applications. Proficient in C# .NET and JavaScript, I enjoy solving problems and building seamless user experiences.<br><br>I'm constantly exploring new technologies and striving to enhance my skills to deliver high-quality, scalable, and efficient solutions. Let's build something amazing together! <br><br>Feel free to connect with me or check out my projects to see what I’ve been working on!
+Hi, I'm Anel Fakic – a Junior Web Developer with a passion for crafting dynamic and responsive web applications. Proficient in C# .NET and JavaScript, I enjoy solving problems and building seamless user experiences.<br><br>I'm constantly exploring new technologies and striving to enhance my skills to deliver high-quality, scalable, and efficient solutions. Let's build something amazing together! <br><br>Feel free to connect with me or check out my projects to see what I’ve been working on! <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anel-fakic/) 
 
 # 💻 Tech Stack:
@@ -7,8 +7,8 @@ Hi, I'm Anel Fakic – a Junior Web Developer with a passion for crafting dynami
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnelFakic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnelFakic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AnelFakic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnelFakic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnelFakic&theme=dark&hide_border=false)
 
 ---
